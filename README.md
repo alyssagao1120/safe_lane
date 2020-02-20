@@ -1,4 +1,5 @@
 Inspiration
+
 Our inspiration came from how we are all relatively new drivers and terrified of busy intersections. Although speed is extremely important to transport from one spot to another, safety should always be highlighted when it comes to the road because car accidents are the number one cause of death in the world.
 
 What it does
